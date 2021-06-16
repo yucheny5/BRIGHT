@@ -1,0 +1,13 @@
+all the data and code are collected in this package
+normalized data is already prepared
+to get the results, just run and modify the parameters in the main.py
+
+requirement
+scipy
+numpy
+torch.geometrics
+sklearn
+networkx
+tqdm
+
+if you meet any problems, feel free to contach me (yucheny5@illinois.edu), I will help you to run the code. 
